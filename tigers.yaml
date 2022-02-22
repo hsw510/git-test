@@ -11,8 +11,7 @@ members:
 - David
 - George
 - Tyler
-<<<<<<< HEAD
 - KIM
-=======
-- Park
->>>>>>> conflict
+
+
+fetch : this
